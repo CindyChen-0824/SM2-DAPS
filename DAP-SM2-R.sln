@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DAP-SM2-R", "DAP-SM2-R.vcxproj", "{1502696A-D491-4501-B3DA-512AE677CC35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1502696A-D491-4501-B3DA-512AE677CC35}.Debug|x64.ActiveCfg = Debug|x64
+		{1502696A-D491-4501-B3DA-512AE677CC35}.Debug|x64.Build.0 = Debug|x64
+		{1502696A-D491-4501-B3DA-512AE677CC35}.Debug|x86.ActiveCfg = Debug|Win32
+		{1502696A-D491-4501-B3DA-512AE677CC35}.Debug|x86.Build.0 = Debug|Win32
+		{1502696A-D491-4501-B3DA-512AE677CC35}.Release|x64.ActiveCfg = Release|x64
+		{1502696A-D491-4501-B3DA-512AE677CC35}.Release|x64.Build.0 = Release|x64
+		{1502696A-D491-4501-B3DA-512AE677CC35}.Release|x86.ActiveCfg = Release|Win32
+		{1502696A-D491-4501-B3DA-512AE677CC35}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94D74441-7FB3-4382-8A90-86B5544F0128}
+	EndGlobalSection
+EndGlobal
